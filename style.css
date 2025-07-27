@@ -138,6 +138,13 @@ footer {
     padding: 10px;
     font-size: 0.9rem;
   }
+
+  .foto {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover; /* evita que a imagem fique distorcida */
+ }
 }
 
 
